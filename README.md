@@ -25,8 +25,8 @@ iii. Bound Services
 
 **Light Theme:**
 
-![image](https://github.com/rutviprajapati16/MAD_Practical6_21012011123/assets/97946004/d45d9a0d-68eb-4562-aa86-83e4c9644f5f)
+<img src="https://github.com/rutviprajapati16/MAD_Practical6_21012011123/assets/97946004/d45d9a0d-68eb-4562-aa86-83e4c9644f5f" height="500" width="300">
 
 **Dark Theme:**
 
-![image](https://github.com/rutviprajapati16/MAD_Practical6_21012011123/assets/97946004/a25d0f71-30ad-408b-8ddb-366f5974d412)
+<img src="https://github.com/rutviprajapati16/MAD_Practical6_21012011123/assets/97946004/a25d0f71-30ad-408b-8ddb-366f5974d412" height="500" width="300">
